@@ -56,8 +56,6 @@
 
 <!-- INSTALLATION -->
 ## :blue_book: Installation
-A guide to installing the system and graphical shell via builder: [EN](Docs/01_installing_arch_linux_with_bspwm_english.md), [RU](Docs/00_installing_arch_linux_with_bspwm_russian.md). 
-
 
 <!-- ERRORS -->
 ## :moyai: Post-installation fixes
