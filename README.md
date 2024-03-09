@@ -1,2 +1,6 @@
 # dotfiles
-Config files for my bspwm Arch Linux and other.
+Конфигурационные файлы для Arch Linux.
+
+BSPWM
+Polybar
+Neovim

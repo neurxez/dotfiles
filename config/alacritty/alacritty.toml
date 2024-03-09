@@ -1,4 +1,4 @@
-import = ["/home/xnwerz/.config/alacritty/themes/dracula.toml",]
+import = ["/home/neurxez/.config/alacritty/themes/dracula.toml",]
 
 [font]
 size = 14

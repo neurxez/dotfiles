@@ -49,3 +49,6 @@ vim.opt.fillchars = {
     foldsep = "│",
     foldclose = "▸"
 }
+
+vim.cmd([[highlight clear LineNr]])
+vim.cmd([[highlight clear SignColumn]])
