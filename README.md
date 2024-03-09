@@ -6,8 +6,6 @@
 <!-- INFORMATION -->
 <h1 align="left"> :blue_book: About</h1> 
 
-<img src="demonstration/1.png" alt="rice" align="right" width="500px">
-
 </br>
 
  - OS: [**`Arch Linux`**](https://archlinux.org/)
