@@ -40,13 +40,6 @@
          <sup>:warning: WARNING :warning:</sup>
       </th>
    </tr>
-   <tr>
-      <td align="center">
-        THIS CONFIGURATION IS DESIGNED FOR 1920X1080 MONITORS,
-        SOME FUNCTIONALITY OF THE SHELL MAY NOT WORK AS IT SHOULD.
-        IN THIS CASE YOU NEED TO MAKE ADJUSTMENTS MANUALLY.
-        IF YOU FIND ERRORS IN THE SHELL, PLEASE REPORT THE PROBLEM.
-   </tr>
    </table>
 
 
