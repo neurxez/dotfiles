@@ -34,14 +34,6 @@
 * A very lightweight system that consumes less than 700mb of memory.
 * Automatic installation and configuration of all basic software for development.
 
-<table align="center">
-   <tr>
-      <th align="center">
-         <sup>:warning: WARNING :warning:</sup>
-      </th>
-   </tr>
-   </table>
-
 
 <!-- INSTALLATION -->
 ## :blue_book: Installation
