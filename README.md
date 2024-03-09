@@ -36,8 +36,6 @@
 * A very lightweight system that consumes less than 700mb of memory.
 * Automatic installation and configuration of all basic software for development.
 
-**And more features: [EN](Docs/03_all_features_and_tricks_english.md), [RU](Docs/02_all_features_and_tricks_russian.md)**
-
 <table align="center">
    <tr>
       <th align="center">
@@ -59,7 +57,6 @@
 
 <!-- ERRORS -->
 ## :moyai: Post-installation fixes
-Complete instructions for corrections: https://youtu.be/9zewiGf7j-A
 * **The brightness of the screen is not displayed on the bar**. This error is due to the fact that the Builder was unable to automatically install drivers for the video card or processor. You need to go to [Arch Wiki](https://wiki.archlinux.org/) and do the installation manually.
 * **The battery is not displayed on the bar**. You need to open `~/bin/battery-alert` and change the `battery` variable to your battery value. Then go to `~/.config/polybar/modules.ini` and edit the `[module/battery]` module according to the polybar instructions to match your `battery` and `adapter` data.
 * **Hangs animation or terminals**. The problem is that you may not be using graphics drivers or may be working from a virtual machine. You need to open `~/.config/bspwm/bspwmrc` and comment out the line with the `picom` startup.
