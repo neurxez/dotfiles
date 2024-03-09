@@ -65,10 +65,9 @@
 
 <!-- HOTKEYS -->
 ## 💻 HotKeys
-* **Open the terminal** - `super + p`
-* **Set a random wallpaper** - `super + w`
+* **Open the terminal** - `super + enter`
 * **Switch the layout** - `shift + alt`
-* **Open the application menu** - `super + d`
+* **Open the application menu** - `super + r`
 * **Derive a random verse from the Bible** - `super + shift + q`
 * **Open the browser in incognito mode** - `super + shift + i`
 * **Recognize the color on the screen** - `super + shift + x`
