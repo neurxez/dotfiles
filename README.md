@@ -25,7 +25,7 @@
  - Terminal: [**`Alacritty`**](https://github.com/alacritty/alacritty)
  - App Launcher: [**`Rofi`**](https://github.com/davatorium/rofi)
  - Notify Daemon: [**`Dunst`**](https://github.com/dunst-project/dunst)
- - Shell: [**`Fish`**](https://github.com/fish-shell/fish-shell)
+ - Shell: [**`Bash`**](https://github.com/fish-shell/fish-shell)
 
 </br>
 
