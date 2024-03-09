@@ -21,6 +21,7 @@ bspc config gapless_monocle	false
 bspc config paddingless_monocle	true
 
 
+
 # bspc rule -a 'Alacritty' state=floating rectangle=1200x700+360+190
 
 bspc rule -a 'discord' state=floating rectangle=1200x700+360+190
