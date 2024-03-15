@@ -4,7 +4,7 @@
 </br>
 
 <!-- INFORMATION -->
-<h1 align="left"> :blue_book: About</h1> 
+<h1 align="left"> :blue_book: О системе</h1> 
 
 </br>
 
