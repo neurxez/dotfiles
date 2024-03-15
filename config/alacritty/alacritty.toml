@@ -1,20 +1,21 @@
 import = ["/home/neurxez/.config/alacritty/themes/dracula.toml",]
 
 [font]
-size = 14
+size = 17
 
 [font.bold]
-family = "JetBrainsMono Nerd Font"
-style = "Heavy"
+family = "Iosevka Nerd Font Mono"
+style = "Bold"
 
 [font.bold_italic]
-family = "JetBrainsMono Nerd Font"
-style = "Heavy Italic"
+family = "Iosevka Nerd Font Mono"
+style = "Bold Italic"
 
 [font.italic]
-family = "JetBrainsMono Nerd Font"
-style = "Medium Italic"
+family = "Iosevka Nerd Font Mono"
+style = "Italic"
 
 [font.normal]
-family = "JetBrainsMono Nerd Font"
-style = "Medium"
+family = "Iosevka Nerd Font Mono"
+style = "Regular"
+
