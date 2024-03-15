@@ -45,4 +45,4 @@
 * **Открыть менеджер запуска программ** - `super + r`
 * **Перезапустить BSPWM** - `ctrl + shift + r`
 
-The other hotkeys are in `~/.config/sxhkd/sxhkdrc`.
+Все сочетания клавиш хранятся в `~/.config/sxhkd/sxhkdrc`.
