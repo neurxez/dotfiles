@@ -1,4 +1,5 @@
-import = ["/home/neurxez/.config/alacritty/themes/dracula.toml",]
+# import = ["/home/neurxez/.config/alacritty/themes/dracula.toml",]
+import = ["/home/neurxez/.config/alacritty/themes/nord.toml",]
 
 [font]
 size = 17
